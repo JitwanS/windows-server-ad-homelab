@@ -63,12 +63,5 @@ PowerShell with the ActiveDirectory module
 Command-line utilities: gpresult, gpupdate, nslookup, ipconfig, net use
 
 
-Repository Contents
-
-/docs — Build notes, configuration references, and IP planning documentation
-/screenshots — Environment screenshots (ADUC structure, GPOs, permissions, mapped drives)
-/scripts — PowerShell scripts for AD administration and automation
-
-
 Status
 Initial build is complete. The environment is functional and has been used to validate each component end-to-end, including domain join, GPO application, permission enforcement, and delegated administration from the client.
